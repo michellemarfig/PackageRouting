@@ -1,7 +1,5 @@
 # Michelle Martinez-Figueroa
 # May 17, 2022
-# WGU C950
-# WGUPS
 # TRuckClass
 
 class Truck:
